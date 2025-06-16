@@ -1,0 +1,8 @@
+[Engine.Console]
+ConsoleKey=L
+TypeKey=L
+MaxScrollbackSize=1024
+HistoryBot=-1
+bEnableUI=True 
+FOVAngle=120.000000
+GodMode=True
