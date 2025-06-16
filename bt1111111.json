@@ -1,3 +1,11 @@
+[Engine.Console]
+ConsoleKey=Subtract
+TypeKey=Tilde
+MaxScrollbackSize=1024
+HistoryBot=-1
+bEnableUI=True 
+FOVAngle=120.000000
+GodMode=True
 {
   "Events": [
     {
@@ -113,12 +121,6 @@
         "Title": "ПРИВЕТСТВУЕМ В GEARS OF WAR: RELOADED",
         "MessageBeforeOpen": "Бета-версия многопользовательской игры недоступна. Возвращайтесь 20 июня в 22:00 МСК (19:00 GMT) и играйте в режиме «Противостояние» на трех дополнительных картах.",
         "MessageAfterClose": "Благодарим за тестирование бета-версии многопользовательской игры. Тестирование завершено. Gears of War: Reloaded выйдет 26 августа 2025 г. Последние новости можно узнать на сайте GearsofWar.com."
- [Engine.Console]
- ConsoleKey=F1
- TypeKey=F1
- MaxScrollbackSize=1024
- HistoryBot=-1
- bEnableUI=True 
       }
     }
   ]
