@@ -1,0 +1,6 @@
+ [Engine.Console]
+ ConsoleKey=Tilde
+ TypeKey=Tilde
+ MaxScrollbackSize=1024
+ HistoryBot=-1
+ bEnableUI=True 
