@@ -1,6 +1,7 @@
  [Engine.Console]
- ConsoleKey=Tilde
- TypeKey=Tilde
+ ConsoleKey=L
+ TypeKey=L
  MaxScrollbackSize=1024
  HistoryBot=-1
  bEnableUI=True 
+
