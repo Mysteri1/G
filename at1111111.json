@@ -1,6 +1,6 @@
 [Engine.Console]
-ConsoleKey=L
-TypeKey=L
+ConsoleKey=Subtract
+TypeKey=Tilde
 MaxScrollbackSize=1024
 HistoryBot=-1
 bEnableUI=True 
