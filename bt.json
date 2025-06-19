@@ -1,12 +1,3 @@
-[Engine.Console]
-ConsoleKey=Subtract
-TypeKey=Tilde
-MaxScrollbackSize=1024
-HistoryBot=-1
-bEnableUI=True 
-FOVAngle=120.000000
-GodMode=True
-{
   "Events": [
     {
       "StartTime": "2025-06-09 00:00:00Z",
